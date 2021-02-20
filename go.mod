@@ -1,4 +1,4 @@
-module KatsutoshiOtogawa.com/product_system
+module github.com/KatsutoshiOtogawa/product_system_with_go
 
 go 1.15
 

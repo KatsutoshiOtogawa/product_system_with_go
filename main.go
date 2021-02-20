@@ -1,8 +1,6 @@
 package main
 
-import (
-	"routes"
-)
+import "github.com/KatsutoshiOtogawa/product_system_with_go/routes"
 
 func main() {
 	// Our server will live in the routes package
